@@ -30,6 +30,10 @@ Los botones inferiores tienen la función de hacer el recorrido del laberinto po
 cualquiera de los algoritmos antes mencionados, búsqueda por amplitud y búsqueda por
 profundidad recursiva. También se hace la implementación de un botón de salida.
 
+![](https://github.com/Areli-Anzures/laberinto-busqueda-no-informada/blob/main/imagenes/fig1.png)
+
 En la Figura 2 se muestra el caso en el que el tablero del laberinto generado encerró a
 la posición inicial, por lo que no habrá ninguna solución y despliega una nueva ventana
 anunciando que no habrá solución.
+
+![](https://github.com/Areli-Anzures/laberinto-busqueda-no-informada/blob/main/imagenes/fig2.png)
